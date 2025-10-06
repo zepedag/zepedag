@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Humberto Zepeda
-
+# Hi, I'm Humberto Zepeda, a Passionate Swift Developer from Mexico 🇲🇽
 ## 🎓 About Me
 
 Computer Systems Engineer graduated from **UDLAP** and currently pursuing a **Master's in Business Management**. I aim to combine my passion for software development with strategic business vision.
@@ -38,9 +37,6 @@ Computer Systems Engineer graduated from **UDLAP** and currently pursuing a **Ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_LINKEDIN_AQUI)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zepedag&show_icons=true&theme=radical&hide=contribs&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zepedag&layout=compact&theme=radical&hide=html,css,prolog,jupyter%20notebook&langs_count=6)
 
