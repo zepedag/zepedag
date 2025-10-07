@@ -3,7 +3,7 @@
 
 Computer Systems Engineer graduated from **UDLAP** and currently pursuing a **Master's in Business Management**. I aim to combine my passion for software development with strategic business vision.
 
-🎯 **My goal:** To become an outstanding iOS developer, creating innovative applications that generate meaningful experiences in peoples lives.
+🎯 **My goal:** To become an outstanding iOS developer, creating innovative applications that generate meaningful experiences in people´s lives.
 
 ## 🏆 Achievements & Recognition
 
